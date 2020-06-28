@@ -1,0 +1,11 @@
+Z Min:  1.35757285213
+Z Max:  1.75158385876
+Z Std:  0.0836460222888
+RMSE:  1.55059651135
+compared_pose_pairs 791 pairs
+absolute_translational_error.rmse 0.017662 m
+absolute_translational_error.mean 0.015109 m
+absolute_translational_error.median 0.012963 m
+absolute_translational_error.std 0.009148 m
+absolute_translational_error.min 0.001708 m
+absolute_translational_error.max 0.059700 m
