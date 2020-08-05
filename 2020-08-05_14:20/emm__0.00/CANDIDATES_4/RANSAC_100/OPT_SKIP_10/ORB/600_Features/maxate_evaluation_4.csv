@@ -1,0 +1,2 @@
+600 Features ; ;"600 Features ATE MAX"; ; ;"600 Features Duration"; ; ;"600 Features Optimization Time"; ; ;Nodes;Edges;
+FR1 xyz; absolute translational error.max; 0.058815; m;Duration; .733615897;s;Optimizer Runtime; 17.3251;s;Number of Nodes/Edges; 793;6997;
